@@ -18,7 +18,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #4070f4;
+  /* background-color: #4070f4; */
+  background-color: lightpink;
 }
 
 .form {
@@ -26,11 +27,11 @@
   width: 100%;
   padding: 1.93rem;
   border-radius: 6px;
-  background: #fff;
+  background: lightgrey;
 }
 
 header {
-  font-size: 1.75rem;
+  font-size: 1.76rem;
   font-weight: 600;
   color: #232836;
   text-align: center;
